@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Knowledge Base"
+  short_description: "Build and maintain durable project memory across tasks"
+  default_prompt: "Use $project-knowledge-base to initialize durable project memory and maintain it continuously."
+
+policy:
+  allow_implicit_invocation: true
